@@ -4,9 +4,9 @@
 
 ### Hi there 👋 I'm Degalax!
 
-- 🔭 I’m currently working on **Blockchain projects**
-- 🌱 I’m currently learning **Solidity & Smart Contracts**
-- 🥅 2026 Goals: **Build and deploy my first DApp**
+  🔭 I’m currently working on **Blockchain projects**
+  🌱 I’m currently learning **Solidity & Smart Contracts**
+  🥅 2026 Goals: **Build and deploy my first DApp**
 
 ---
 
