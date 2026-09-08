@@ -4,17 +4,9 @@
 
 ### Hi there 👋 I'm Degalax!
 
-- 🔭 I’m currently working on **Blockchain projects**
-- 🌱 I’m currently learning **Solidity & Smart Contracts**
-- 🥅 2026 Goals: **Build and deploy my first DApp**
-
 ---
 
 # 💻 Tech Stack
-
-**Blockchain & Web3**<br>
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
 
 **Languages**<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
