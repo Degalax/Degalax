@@ -4,8 +4,6 @@
 
 ### Hi there 👋 I'm Degalax!
 
----
-
 # 💻 Tech Stack
 
 **Languages**<br>
@@ -29,32 +27,6 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Degalax&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Degalax&theme=tokyonight&hide_border=true&layout=compact" />
-</a>
-</div>
-
-<br>
-
-![](https://nirzak-streak-stats.vercel.app/?user=Degalax&theme=tokyonight&hide_border=true)
-
-## 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=Degalax&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-<br>
-
-![](https://visitcount.itsvg.in/api?id=Degalax&icon=5&color=10)
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Degalax/Degalax/output/github-contribution-grid-snake-dark.svg">
